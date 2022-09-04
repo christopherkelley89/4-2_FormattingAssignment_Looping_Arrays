@@ -1,0 +1,3 @@
+﻿  LoopingArrays.cpp
+c:\users\christopher.kelley4\source\repos\loopingarrays\loopingarrays\loopingarrays.cpp(20): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LoopingArrays.vcxproj -> C:\Users\christopher.kelley4\source\repos\LoopingArrays\Debug\LoopingArrays.exe
